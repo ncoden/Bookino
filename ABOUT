@@ -1,0 +1,29 @@
+Ce projet est Bookino. Un an est passé depuis les dernières modifications que je lui ai apporté. Clonez-le à vos risques et périls !
+
+La description ci-dessous a plus d'un an, et décrit la façon dont le projet marchait à sa dernière mise à jour. J'ai depuis appris beaucoup en "systèmes collaboratifs" (notamment par mes participations sur Github et Wikipédia), et je suis conscient que beaucoup de choses sont à revoir : les systèmes de vote, le blocage des paragraphes, les variantes, l'intervention de modérateurs et/ou administrateurs...
+
+Ce projet sera repensé et recommencé... quand j'aurais le temps.
+
+ncoden - contact@ncoden.fr
+
+--------------
+
+Il s'agit d'un site d'écriture participative. Chacun peut ajouter un paragraphe à un roman. L'ensemble du site est conçu pour favoriser la découverte de talents et homogénéité du livre.
+
+Le site fonctionne de la façon suivante :
+- Une première personne créée le livre en donnant un titre, une description du début ou de l'ensemble de l'histoire, et le plus d'information possible sur la façon d'écrire.
+- Tour à tour, d'autres personnes ajoutent des paragraphes au roman.
+- N'importe qui peut noter ses paragraphes positivement ou négativement, et proposer des variantes : une version du paragraphe mieux écrite, mais ne changeant pas le cours de l'histoire.
+
+Dès que le paragraphe obtient un score trop négatif, il est automatiquement remplacé par la variante la mieux notée. Dès qu'une variante obtient un score très haut, elle remplace le paragraphe si celui-ci a un score plus faible.
+
+- Les membres peuvent ajouter des "idées" au livre, sous forme de conseils scénaristiques. À la création d'un paragraphe, les membres peuvent retirer de la liste les idées qu'ils ont utilisées.
+
+Bien sûr, pour ajouter un paragraphe, il faut d'abord avoir lu tous les précédents.
+
+Quand le livre est jugé "terminé" par la communauté, un concours est organisé pour valider ou non le nom du livre, puis la couverture. Le livre est ensuite vendu à très faible prix et la grande majorité de l'argent va à ses contributeurs.
+
+Il y a bien sûr des administrateurs qui sont chargées de valider certaines étapes du livre, et des modérateurs qui peuvent modifier ou supprimer des paragraphes.
+Ces paragraphes sont signalables, et leurs créateurs sont bloqués au bout d'un certain nombre d'avertissements.
+
+Il existe plusieurs sites de création d'histoire aux États-unis, mais "Bookino" est le premier en Europe, et le premier à fonctionner de manière à produire de vrais romans publiables.
